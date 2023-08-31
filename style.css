@@ -1,0 +1,12 @@
+
+.view img{
+    max-height: 400px;
+    object-fit: cover;
+    max-width: 800px;
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+}
+.img{
+    max-width: 740px; margin: 10px;
+}
